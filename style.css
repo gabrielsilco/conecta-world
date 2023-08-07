@@ -34,3 +34,7 @@ svg path {
 svg path:hover {
     fill: green;
 }
+
+.highlighted {
+    fill: red;
+}
